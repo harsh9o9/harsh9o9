@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh9o9&label=Profile%20views&color=0e75b6&style=flat" alt="harsh9o9" /> </p>
 
-  - 🔭 I’m currently working on [Chat Buddy frontend](https://github.com/harsh9o9/chat-buddy-frontend)
-  - 🔭 I’m currently working on [Chat Buddy Backend](https://github.com/harsh9o9/chat-buddy-backend)
+  - 🔭 I’m was working on [Chat Buddy frontend](https://github.com/harsh9o9/chat-buddy-frontend)
+  - 🔭 I’m was working on [Chat Buddy Backend](https://github.com/harsh9o9/chat-buddy-backend)
   - 🌱 I’m currently learning **TypeScript, Java, Tailwind,**
   - 💬 Ask me about **Ember.js, React.js, JavaScript, Tailwind CSS, Express.js**
   - 📫 How to reach me **hbhardwaj454@gmail.com**
