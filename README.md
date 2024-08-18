@@ -55,7 +55,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/user-attachments/assets/a398c5af-175d-44d8-bd04-2367542dfe40"
+      src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fexpressjs%2Fexpressjs-icon.svg&width=60&height=60"
       alt="express"
       width="40"
       height="40"
