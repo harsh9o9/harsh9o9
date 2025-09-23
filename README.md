@@ -165,7 +165,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh9o9&show_icons=true&locale=en&layout=compact" alt="harsh9o9" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh9o9&show_icons=true&locale=en" alt="harsh9o9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh9o9&" alt="harsh9o9" /></p>
